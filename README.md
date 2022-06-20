@@ -36,3 +36,14 @@ pull -> Download changes from remote repository to your local machine, the oppos
 2. enter git --version
 ![image](https://user-images.githubusercontent.com/105096396/174554271-92c5cc2d-e5a5-46b8-85a2-808653b9b6d1.png)
 
+
+## How to clone git repo to your local machine
+1. copy git address
+![image](https://user-images.githubusercontent.com/105096396/174555466-d1dad7e6-e8c1-47a0-ad63-ee20a28c33f1.png)
+
+2. Open Code Editor(Visual Studio Code) and go to destined folder in local machine
+![Screenshot (1)](https://user-images.githubusercontent.com/105096396/174556245-586ec2cb-0d4b-47c4-bdaa-34fb0c3f40ae.png)
+
+3. Use git clone
+
+
