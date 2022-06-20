@@ -23,3 +23,6 @@ add -> Track your files and changes in Git. (update, create, delete..)
 commit -> Save your files in Git.
 push -> Upload Git commits to a remote repository, like Github
 pull -> Download changes from remote repository to your local machine, the opposite of ‘push’
+
+## Checking entire Git history
+![image](https://user-images.githubusercontent.com/105096396/174553237-93b4bd4b-7d20-439d-b50f-1bdd92ff7922.png)
