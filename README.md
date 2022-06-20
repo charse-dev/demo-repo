@@ -44,6 +44,7 @@ pull -> Download changes from remote repository to your local machine, the oppos
 2. Open Code Editor(Visual Studio Code) and go to destined folder in local machine
 ![Screenshot (1)](https://user-images.githubusercontent.com/105096396/174556245-586ec2cb-0d4b-47c4-bdaa-34fb0c3f40ae.png)
 
-3. Use git clone
+3. Open Terminal -> new Terminal and enter git clone [github address]
+![image](https://user-images.githubusercontent.com/105096396/174557095-0f888e8d-8edf-46ca-b8a9-5a09b243e206.png)
 
 
