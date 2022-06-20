@@ -29,3 +29,10 @@ pull -> Download changes from remote repository to your local machine, the oppos
 ![image](https://user-images.githubusercontent.com/105096396/174553576-d985ee49-9cb2-47cb-9943-a4edea77f3e0.png)
 
 ![image](https://user-images.githubusercontent.com/105096396/174553820-1f78ed52-1e63-433d-a412-ffaf49dc1837.png)
+
+
+## How to check if Git is installed in your local machine
+1. Open cmd/terminal
+2. enter git --version
+![image](https://user-images.githubusercontent.com/105096396/174554271-92c5cc2d-e5a5-46b8-85a2-808653b9b6d1.png)
+
