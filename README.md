@@ -59,5 +59,5 @@ pull -> Download changes from remote repository to your local machine, the oppos
 ## side note to identify myself to github (in case push does not work)
 ![image](https://user-images.githubusercontent.com/105096396/174563317-86c41923-d664-4b33-925a-5cff44fc0fab.png)
 ![image](https://user-images.githubusercontent.com/105096396/174564232-c2495e0e-fc66-4e22-9b43-ecc5c5e3941b.png)
-
+- go to github Settings -> SSH -> New SSH -> Enter title and paste the ssh copied -> create SSH
 
