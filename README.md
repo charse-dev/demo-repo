@@ -47,4 +47,14 @@ pull -> Download changes from remote repository to your local machine, the oppos
 3. Open Terminal -> new Terminal and enter git clone [github address]
 ![image](https://user-images.githubusercontent.com/105096396/174557095-0f888e8d-8edf-46ca-b8a9-5a09b243e206.png)
 
+4. git status shows modifications, updates in the local machine
+![image](https://user-images.githubusercontent.com/105096396/174559860-22f11464-1b06-4059-927e-a657de567eb0.png)
+
+5. git add . tracks all the files in Git.
+![image](https://user-images.githubusercontent.com/105096396/174560062-7007df7d-6294-4551-803d-9b76cb707850.png)
+
+6. git commit -m "[my heading msg] -m "[my description msg]" to commit
+![image](https://user-images.githubusercontent.com/105096396/174560937-6c44b4e4-c8a0-4871-9233-b1b0a3e19f32.png)
+
+
 
