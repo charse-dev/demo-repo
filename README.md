@@ -28,3 +28,4 @@ pull -> Download changes from remote repository to your local machine, the oppos
 ![image](https://user-images.githubusercontent.com/105096396/174553237-93b4bd4b-7d20-439d-b50f-1bdd92ff7922.png)
 ![image](https://user-images.githubusercontent.com/105096396/174553576-d985ee49-9cb2-47cb-9943-a4edea77f3e0.png)
 
+![image](https://user-images.githubusercontent.com/105096396/174553820-1f78ed52-1e63-433d-a412-ffaf49dc1837.png)
