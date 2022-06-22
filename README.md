@@ -44,6 +44,22 @@ pull -> Download changes from remote repository to your local machine, the oppos
 2. Open Code Editor(Visual Studio Code) and go to destined folder in local machine
 ![Screenshot (1)](https://user-images.githubusercontent.com/105096396/174556245-586ec2cb-0d4b-47c4-bdaa-34fb0c3f40ae.png)
 
-3. Use git clone
+3. Open Terminal -> new Terminal and enter git clone [github address]
+![image](https://user-images.githubusercontent.com/105096396/174557095-0f888e8d-8edf-46ca-b8a9-5a09b243e206.png)
+
+4. git status shows modifications, updates in the local machine
+![image](https://user-images.githubusercontent.com/105096396/174559860-22f11464-1b06-4059-927e-a657de567eb0.png)
+
+5. git add . tracks all the files in Git.
+![image](https://user-images.githubusercontent.com/105096396/174560062-7007df7d-6294-4551-803d-9b76cb707850.png)
+
+6. git commit -m "[my heading msg] -m "[my description msg]" to commit
+![image](https://user-images.githubusercontent.com/105096396/174560937-6c44b4e4-c8a0-4871-9233-b1b0a3e19f32.png)
+
+## side note to identify myself to github (in case push does not work)
+![image](https://user-images.githubusercontent.com/105096396/174563317-86c41923-d664-4b33-925a-5cff44fc0fab.png)
+![image](https://user-images.githubusercontent.com/105096396/174564232-c2495e0e-fc66-4e22-9b43-ecc5c5e3941b.png)
+- go to github Settings -> SSH and GPG keys -> New SSH -> Enter title and paste the ssh copied -> Add SSH key
+![image](https://user-images.githubusercontent.com/105096396/174565209-d2c8b9a1-765e-4b58-8f6e-883fa7bdd748.png)
 
 
