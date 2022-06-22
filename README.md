@@ -63,5 +63,6 @@ pull -> Download changes from remote repository to your local machine, the oppos
 ![image](https://user-images.githubusercontent.com/105096396/174565209-d2c8b9a1-765e-4b58-8f6e-883fa7bdd748.png)
 
 7. git pull and git push
+
 ![image](https://user-images.githubusercontent.com/105096396/174980193-2289436d-6515-42cc-8518-a98f524e3fb9.png)
 
